@@ -1,6 +1,6 @@
 # SWYNEX-Model-Improvement
 # Task 3: Improving and Validating the Selected Model
-Part of *Drug Review Sentiment and Side-Effect Mining (UCI Drug Review)*.
+Part of *Drug Review Sentiment and Side-Effect Mining (UCI Drug Review)*. 
 
 > Disclaimer: For research and education only. This is not medical advice and not pharmacovigilance.
 
